@@ -3,7 +3,7 @@
 A clean, responsive and modern **Todo App** built with **React** and **Tailwind CSS**.  
 This app helps users organize tasks with smooth UI interactions and persistent storage using LocalStorage.
 
-📍 Live Demo: _(Add link after deployment)_
+📍 Live Demo: https://github.com/Nayan129/TODO-APP
 
 ---
 
